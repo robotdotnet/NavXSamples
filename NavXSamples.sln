@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldCentricDrive", "FieldCentricDrive\FieldCentricDrive.csproj", "{242D6DC0-2046-44CF-B3EC-34790823F319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoBalance", "AutoBalance\AutoBalance.csproj", "{61B0DDF3-CBB6-4C1D-87EB-546602F38AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollisionDetection", "CollisionDetection\CollisionDetection.csproj", "{CFE93E56-135D-4EA1-80C2-352EA46FCD0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateToAngle", "RotateToAngle\RotateToAngle.csproj", "{0E43D84B-39A5-4DCA-B8F2-6E860C1EA9DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataMonitor", "DataMonitor\DataMonitor.csproj", "{FC0B4833-D5DD-4C60-A709-E0ABD232F82B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotionDetection", "MotionDetection\MotionDetection.csproj", "{7502B9DA-E1B4-4F6F-96E1-E238F7AC3EF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{242D6DC0-2046-44CF-B3EC-34790823F319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242D6DC0-2046-44CF-B3EC-34790823F319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242D6DC0-2046-44CF-B3EC-34790823F319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242D6DC0-2046-44CF-B3EC-34790823F319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B0DDF3-CBB6-4C1D-87EB-546602F38AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B0DDF3-CBB6-4C1D-87EB-546602F38AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B0DDF3-CBB6-4C1D-87EB-546602F38AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B0DDF3-CBB6-4C1D-87EB-546602F38AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE93E56-135D-4EA1-80C2-352EA46FCD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE93E56-135D-4EA1-80C2-352EA46FCD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE93E56-135D-4EA1-80C2-352EA46FCD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE93E56-135D-4EA1-80C2-352EA46FCD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E43D84B-39A5-4DCA-B8F2-6E860C1EA9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E43D84B-39A5-4DCA-B8F2-6E860C1EA9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E43D84B-39A5-4DCA-B8F2-6E860C1EA9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E43D84B-39A5-4DCA-B8F2-6E860C1EA9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC0B4833-D5DD-4C60-A709-E0ABD232F82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0B4833-D5DD-4C60-A709-E0ABD232F82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0B4833-D5DD-4C60-A709-E0ABD232F82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0B4833-D5DD-4C60-A709-E0ABD232F82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7502B9DA-E1B4-4F6F-96E1-E238F7AC3EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7502B9DA-E1B4-4F6F-96E1-E238F7AC3EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7502B9DA-E1B4-4F6F-96E1-E238F7AC3EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7502B9DA-E1B4-4F6F-96E1-E238F7AC3EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
